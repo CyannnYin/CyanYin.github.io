@@ -1,31 +1,8 @@
-Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Hello,
 
+My name is Cyan Yin. 
+Welcome to visit my portfolio to see my work project. I am a Data Analyst proficient in SQL, Python, R, Excel, Tableau, and Power BI.
 
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
+I have a genuine passion for discovering valuable insights from complex datasets. With a wide range of skills in data analysis and interpretation, my goal is to turn raw information into practical recommendations that guide decision-making and help organizations thrive. By devoting myself to unlocking data's true potential, I am determined to achieve tangible results that make a real impact.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Thank you!
